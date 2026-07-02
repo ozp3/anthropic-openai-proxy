@@ -1,0 +1,7 @@
+.env
+proxy.log
+proxy.pid
+*.pem
+node_modules/
+.DS_Store
+graphify-out/
